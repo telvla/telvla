@@ -18,10 +18,12 @@ Hi, I'm Artem Trifonov, Full Stack web developer. My passion for software lies w
 <code><img height="20" src="https://github.com/telvla/telvla/raw/master/assets/android_studio.png"></code>
 <code><img height="20" src="https://github.com/telvla/telvla/raw/master/assets/bootstrap.png"></code>
 <code><img height="20" src="https://github.com/telvla/telvla/raw/master/assets/docker.png"></code>
+
 <code><img height="20" src="https://github.com/telvla/telvla/raw/master/assets/git.png"></code>
 <code><img height="20" src="https://github.com/telvla/telvla/raw/master/assets/html.png"></code>
 <code><img height="20" src="https://github.com/telvla/telvla/raw/master/assets/java.png"></code>
 <code><img height="20" src="https://github.com/telvla/telvla/raw/master/assets/mysql.svg"></code>
+
 <code><img height="20" src="https://github.com/telvla/telvla/raw/master/assets/rabbit.png"></code>
 <code><img height="20" src="https://github.com/telvla/telvla/raw/master/assets/ubuntu.png"></code>
 <code><img height="20" src="https://github.com/telvla/telvla/raw/master/assets/vscode.png"></code>
